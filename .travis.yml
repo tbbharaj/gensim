@@ -2,6 +2,7 @@ branches:
   only:
     - /release-.+/
     - travis
+    - tbbharal/aarch64-wheels-test
 language: python
 arch: arm64-graviton2
 dist: focal
