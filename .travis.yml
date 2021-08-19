@@ -2,6 +2,7 @@ branches:
   only:
     - /release-.+/
     - travis
+    - tbbharaj/test
 language: python
 arch: arm64-graviton2
 dist: focal
