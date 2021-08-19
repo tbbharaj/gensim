@@ -1,6 +1,6 @@
 branches:
   only:
-    - tbbharal/aarch64-wheels-test
+    - tbbharaj/aarch64-wheels-test
 language: python
 arch: arm64-graviton2
 dist: focal
